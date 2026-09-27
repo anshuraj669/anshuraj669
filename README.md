@@ -1,230 +1,192 @@
- <!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2F81F7&height=200&secti
-  on=header&text=Anshu%20Raj&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend%20%2F%20Softwa
-  re%20Engineer&descSize=18&descAlignY=58" width="100%" />
-  </p>
+<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2F81F7&height=200&section=header&text=Anshu%20Raj&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend%20%2F%20Software%20Engineer&descSize=18&descAlignY=58" width="100%" />
+</p>
 
-  <div align="center">
+<div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=2F
-  81F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Anshu+%F0%9F%91%8B;Backend+Engineer+%E2%9A%99%EF%B8%
-  8F;Python+%7C+FastAPI+%7C+Laravel;Building+AI-powered+applications+%F0%9F%A4%96;Automation+%2B+Security+tooling+%F
-  0%9F%94%90;Build+it.+Break+it.+Understand+it.+Improve+it." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Anshu+%F0%9F%91%8B;Backend+Engineer+%E2%9A%99%EF%B8%8F;Python+%7C+FastAPI+%7C+Laravel;Building+AI-powered+applications+%F0%9F%A4%96;Automation+%2B+Security+tooling+%F0%9F%94%90;Build+it.+Break+it.+Understand+it.+Improve+it." alt="Typing SVG" />
 
-  <br/>
+<br/>
 
-  <img src="https://komarev.com/ghpvc/?username=anshuraj669&label=Profile%20Views&color=2F81F7&style=flat" />
-  <img src="https://img.shields.io/github/followers/anshuraj669?label=Followers&style=flat&color=2F81F7&logo=github"
-  />
-  <img src="https://img.shields.io/badge/📍-India-2F81F7?style=flat" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-2ea44f?style=flat" />
+<img src="https://komarev.com/ghpvc/?username=anshuraj669&label=Profile%20Views&color=2F81F7&style=flat" />
+<img src="https://img.shields.io/github/followers/anshuraj669?label=Followers&style=flat&color=2F81F7&logo=github" />
+<img src="https://img.shields.io/badge/📍-India-2F81F7?style=flat" />
+<img src="https://img.shields.io/badge/Open%20to-Collaborate-2ea44f?style=flat" />
 
-  </div>
+</div>
 
-  ---
+---
 
-  ## 👨‍About Me
+## 👨‍💻 About Me
 
-  ```python
-  class AnshuRaj:
-      role      = "Backend / Software Engineer"
-      location  = "India 🇮🇳"
-      stack     = ["Python", "FastAPI", "Laravel", "MySQL", "Redis", "Docker", "Linux"]
-      building  = "Backend & AI-powered applications"
-      interests = ["AI", "Automation", "Security", "Distributed Systems"]
-      focus     = ["APIs", "Databases", "Backend Architecture"]
-      open_to   = "Collaborating on interesting engineering projects 🤝"
+```python
+class AnshuRaj:
+    role      = "Backend / Software Engineer"
+    location  = "India 🇮🇳"
+    stack     = ["Python", "FastAPI", "Laravel", "MySQL", "Redis", "Docker", "Linux"]
+    building  = "Backend & AI-powered applications"
+    interests = ["AI", "Automation", "Security", "Distributed Systems"]
+    focus     = ["APIs", "Databases", "Backend Architecture"]
+    open_to   = "Collaborating on interesting engineering projects 🤝"
 
-      def motto(self) -> str:
-          return "Build it. Break it. Understand it. Improve it."
-  ```
+    def motto(self) -> str:
+        return "Build it. Break it. Understand it. Improve it."
+```
 
-  ---
-  
-  ## 🛠️Tech Stack
+---
 
-  <div align="center">
+## 🛠️ Tech Stack
 
-  **Languages**<br/>
-  <img src="https://skillicons.dev/icons?i=python,php,js,sql" />
+<div align="center">
 
-  **Backend & Frameworks**<br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs" />
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,php,js,sql" />
 
-  **Databases & Infrastructure**<br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,linux,nginx,aws,kubernetes" />
+**Backend & Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs" />
 
-  **Tools**<br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+**Databases & Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,linux,nginx,aws,kubernetes" />
 
-  </div>
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
-  ---
+</div>
 
-  ## 🚀 Featured Projects
+---
 
-  <div align="center">
-    <a href="https://github.com/anshuraj669/sentinel"><img src="https://github-readme-stats.vercel.app/api/pin/?user
-  name=anshuraj669&repo=sentinel&theme=transparent&hide_border=true&title_color=2F81F7" /></a>
-    <a href="https://github.com/anshuraj669/klonr"><img src="https://github-readme-stats.vercel.app/api/pin/?usernam
-  e=anshuraj669&repo=klonr&theme=transparent&hide_border=true&title_color=2F81F7" /></a>
-    <a href="https://github.com/anshuraj669/laravel-crm"><img src="https://github-readme-stats.vercel.app/api/pin/?u
-  sername=anshuraj669&repo=laravel-crm&theme=transparent&hide_border=true&title_color=2F81F7" /></a>
-  </div>
+## 🚀 Featured Projects
 
-  <br/>
-  
-  ### 🔐 Sentinel — Security Auditing Platform
+### 🔐 Sentinel — Security Auditing Platform
 
-  A security auditing platform that analyzes websites and codebases for common vulnerabilities and gives you results
-  you can act on.
+A security auditing platform that analyzes websites and codebases for common vulnerabilities and gives you results you can act on.
 
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Stars](https://img.shields.io/github/stars/anshuraj669/sentinel?style=flat-square&color=2F81F7)
+![Last commit](https://img.shields.io/github/last-commit/anshuraj669/sentinel?style=flat-square&color=2F81F7)
 
-  <details>
-  <summary><b>✨ Features</b></summary>
-  <br/>
+<details>
+<summary><b>✨ Features</b></summary>
+<br/>
 
-  - 🔒 Website security scanning
-  - 🧪 Source-code and dependency analysis
-  - 🔑 Secrets and Git history scanning
-  - 📊 Scan processing and reporting
-  - 🔗 Laravel API backed by a Python scanning engine
+- 🔒 Website security scanning
+- 🧪 Source-code and dependency analysis
+- 🔑 Secrets and Git history scanning
+- 📊 Scan processing and reporting
+- 🔗 Laravel API backed by a Python scanning engine
 
-  </details>
-  
-  [**View Project →**](https://github.com/anshuraj669/sentinel)
+</details>
 
-  <br/>
+[**View Project →**](https://github.com/anshuraj669/sentinel)
 
-  ### 🎙️Klonr — AI Voice Cloning Platform
+<br/>
 
-  Upload a short voice sample and generate natural speech from text.
+### 🎙️ Klonr — AI Voice Cloning Platform
 
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-  ![Spark-TTS](https://img.shields.io/badge/Spark--TTS-8A2BE2?style=flat-square)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Upload a short voice sample and generate natural speech from text.
 
-  <details>
-  <summary><b>✨ Features</b></summary>
-  <br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spark-TTS](https://img.shields.io/badge/Spark--TTS-8A2BE2?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/anshuraj669/klonr?style=flat-square&color=2F81F7)
+![Last commit](https://img.shields.io/github/last-commit/anshuraj669/klonr?style=flat-square&color=2F81F7)
 
-  - 🎤 Zero-shot voice cloning
-  - ⚡ Streaming speech generation
-  - 📄 Batch CSV synthesis
-  - 🤖 AI model integration
-  - 🔊 Audio processing pipeline
+<details>
+<summary><b>✨ Features</b></summary>
+<br/>
 
-  </details>
+- 🎤 Zero-shot voice cloning
+- ⚡ Streaming speech generation
+- 📄 Batch CSV synthesis
+- 🤖 AI model integration
+- 🔊 Audio processing pipeline
 
-  [**View Project →**](https://github.com/anshuraj669/klonr)
+</details>
 
-  <br/>
+[**View Project →**](https://github.com/anshuraj669/klonr)
 
-  ### 📊 Laravel CRM
+<br/>
 
-  Manage customers, leads, deals, tasks and follow-ups in one place.
+### 📊 Laravel CRM
 
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-  ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+Manage customers, leads, deals, tasks and follow-ups in one place.
 
-  <details>
-  <summary><b>✨ Features</b></summary>
-  <br/>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Stars](https://img.shields.io/github/stars/anshuraj669/laravel-crm?style=flat-square&color=2F81F7)
+![Last commit](https://img.shields.io/github/last-commit/anshuraj669/laravel-crm?style=flat-square&color=2F81F7)
 
-  - 👥 Customer and lead management
-  - 📋 Deal and task management
-  - 🔐 Authentication and role-based access
-  - 🔗 REST API integration
-  - ⚡ Eloquent and database optimization
+<details>
+<summary><b>✨ Features</b></summary>
+<br/>
 
-  </details>
+- 👥 Customer and lead management
+- 📋 Deal and task management
+- 🔐 Authentication and role-based access
+- 🔗 REST API integration
+- ⚡ Eloquent and database optimization
 
-  [**View Project →**](https://github.com/anshuraj669/laravel-crm)
+</details>
 
-  ---
+[**View Project →**](https://github.com/anshuraj669/laravel-crm)
 
-  ## 💼 What I Like Building
+---
 
-  ```text
-  Backend Systems   →  APIs, services, databases
-  AI Applications   →  LLMs, RAG, model integrations
-  Automation        →  Business workflows & integrations
-  Security          →  Scanning & security tooling
-  Infrastructure    →  Docker, Linux, Redis, Nginx
-  ```
+## 💼 What I Like Building
 
-  ---
+```text
+Backend Systems   →  APIs, services, databases
+AI Applications   →  LLMs, RAG, model integrations
+Automation        →  Business workflows & integrations
+Security          →  Scanning & security tooling
+Infrastructure    →  Docker, Linux, Redis, Nginx
+```
 
-  ## 📊 GitHub Activity
+---
 
-  <div align="center">
+## 📊 GitHub Activity
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anshuraj669&show_icons=true&theme=trans
-  parent&hide_border=true&title_color=2F81F7&icon_color=2F81F7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuraj669&layout=compact&t
-  heme=transparent&hide_border=true&title_color=2F81F7" />
+<div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=anshuraj669&theme=transparent&hide_border=true&ring=2F81F7&fire=2F
-  81F7&currStreakLabel=2F81F7" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshuraj669&theme=github_dark" />
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshuraj669&theme=github-com
-  pact&hide_border=true&bg_color=00000000&color=2F81F7&line=2F81F7&point=FFFFFF&area=true" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshuraj669&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshuraj669&theme=github_dark" />
 
-  </div>
+<img src="https://streak-stats.demolab.com?user=anshuraj669&theme=transparent&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
 
-  ---
+</div>
 
-  ## 🐍 Contribution Snake
+---
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-  srcset="https://raw.githubusercontent.com/anshuraj669/anshuraj669/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-  srcset="https://raw.githubusercontent.com/anshuraj669/anshuraj669/output/github-snake.svg" />
-    <img alt="contribution snake" 
-  src="https://raw.githubusercontent.com/anshuraj669/anshuraj669/output/github-snake.svg" />
-  </picture>
-  srcset="https://raw.githubusercontent.com/anshuraj669/anshuraj669/output/github-snake.svg" />
-    <img alt="contribution snake" 
+## 🐍 Contribution Snake
 
-  ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshuraj669/anshuraj669/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshuraj669/anshuraj669/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/anshuraj669/anshuraj669/output/github-snake.svg" />
+</picture>
 
-  ## 🐍 Contribution Snake
+---
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-  srcset="https://raw.githubusercontent.com/anshuraj669/anshuraj669/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-  srcset="https://raw.githubusercontent.com/anshuraj669/anshuraj669/output/github-snake.svg" />
-    <img alt="contribution snake" 
-  src="https://raw.githubusercontent.com/anshuraj669/anshuraj669/output/github-snake.svg" />
-  </picture>
+## 🤝 Let's Connect
 
-  ---
+<div align="center">
 
-  ## 🤝 Let's Connect
+<a href="https://github.com/anshuraj669"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-  <div align="center">
+<br/><br/>
 
-  <a href="https://github.com/anshuraj669"><img 
-  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img 
-  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<i>"Build it. Break it. Understand it. Improve it."</i>
 
-  <br/><br/>
+</div>
 
-  <i>"Build it. Break it. Understand it. Improve it."</i>
-
-  </div>
-
-  <!-- ═══════════════ ANIMATED FOOTER ═══════════════ -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:1F6FEB,100:0D1117&height=120&section
-  =footer" width="100%" />
-
+<!-- ═══════════════ ANIMATED FOOTER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
