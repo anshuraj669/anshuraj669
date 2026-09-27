@@ -20,19 +20,24 @@
 
 ## 👨‍💻 About Me
 
-```python
-class AnshuRaj:
-    role      = "Backend / Software Engineer"
-    location  = "India 🇮🇳"
-    stack     = ["Python", "FastAPI", "Laravel", "MySQL", "Redis", "Docker", "Linux"]
-    building  = "Backend & AI-powered applications"
-    interests = ["AI", "Automation", "Security", "Distributed Systems"]
-    focus     = ["APIs", "Databases", "Backend Architecture"]
-    open_to   = "Collaborating on interesting engineering projects 🤝"
+I'm a backend engineer who enjoys turning messy problems into **clean APIs, reliable
+systems and useful automation**. Lately that means AI-powered apps and security tooling.
 
-    def motto(self) -> str:
-        return "Build it. Break it. Understand it. Improve it."
-```
+- 🔭 **Currently building:** [Sentinel](https://github.com/anshuraj669/sentinel) (security auditing) and [Klonr](https://github.com/anshuraj669/klonr) (AI voice cloning)
+- 🌱 **Exploring:** LLMs & RAG, distributed systems, security automation
+- 🧠 **Strong focus:** APIs, databases and backend architecture
+- 🤝 **Open to:** collaborating on interesting backend & AI projects
+- 📍 **Based in:** India
+
+<table align="center">
+<tr>
+<td align="center">⚡ <b>Fast APIs</b><br/><sub>FastAPI · Laravel</sub></td>
+<td align="center">🤖 <b>AI Apps</b><br/><sub>LLMs · RAG · TTS</sub></td>
+<td align="center">🔐 <b>Security</b><br/><sub>Scanners · Audits</sub></td>
+<td align="center">⚙️ <b>Automation</b><br/><sub>Workflows · Integrations</sub></td>
+</tr>
+</table>
+
 
 ---
 
